@@ -6,9 +6,6 @@
 2. pyaudio
 3. wave
 
--- Attention! If you use venv
-- When you want to install pyaudio do:
-#### Linux
+#### Work on Linux
 1. sudo apt install portaudio19-dev
-2. active venv
-3. pip3 install pyaudio
+2. pip3 install pyaudio wave SpeechRecognition
